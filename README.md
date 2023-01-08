@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elenakovacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=elenakovacs&style=flat-square)
 
 ### 🧰 Languages and Tools
 
@@ -27,4 +28,3 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![](https://komarev.com/ghpvc/?username=elenakovacs&color=yellow)
