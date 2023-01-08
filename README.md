@@ -10,6 +10,8 @@ elenakovacs/elenakovacs is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
 <!-- Social badges section -->
 <p align="left">
   <a href="https://github.com/elenakovacs?tab=followers">
@@ -21,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 
  ![](https://komarev.com/ghpvc/?username=elenakovacs&style=for-the-badge&color=yellow)
 
+---
 
 ### 🧰 Languages and Tools
 
