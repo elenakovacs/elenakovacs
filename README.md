@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
  ![](https://komarev.com/ghpvc/?username=elenakovacs&style=flat-square&color=yellow)
 </p>
 
-![](https://komarev.com/ghpvc/?username=elenakovacs&style=flat-square&color=yellow)
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
