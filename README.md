@@ -1,8 +1,8 @@
-# 🦋 Elena Kovacs
+# 🌈 Elena Kovacs
 
 **`Web Development Student`**
 
-I’m currently learning 🌱  at Digital Career Institute, Full Stack Web Development 💻 
+*I’m currently learning 🌱  at Digital Career Institute, Full Stack Web Development* 💻 
 
 <!---
 elenakovacs/elenakovacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
