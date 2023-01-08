@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Social badges section -->
-<p align="center">
+<p align="left">
  <a href="https://github.com/elenakovacs?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elenakovacs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/elenakovacs?tab=followers">
