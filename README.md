@@ -32,3 +32,11 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+#
+
+### 📊 Stats
+
+![elenakovacs's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenakovacs&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=elenakovacs&theme=gruvbox&border_radius=4.5) -->
