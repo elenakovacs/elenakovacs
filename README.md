@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://komarev.com/ghpvc/?username=elenakovacs&style=for-the-badge&color=yellow"></a>
 </p>
 
- ![](https://komarev.com/ghpvc/?username=elenakovacs&style=for-the-badge&color=yellow)
+ 
 
 ---
 
