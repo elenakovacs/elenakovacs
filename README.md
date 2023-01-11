@@ -33,9 +33,3 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📊 Stats
-
-![elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenakovacs&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=elenakovacs&theme=gruvbox&border_radius=4.5) -->
-
